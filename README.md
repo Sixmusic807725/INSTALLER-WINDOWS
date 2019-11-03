@@ -8,9 +8,9 @@ Run this script:
 
 $apt install git
 
-$git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
+$git clone https://github.com/471D38UNNUX/INSTALLER-WINDOWS
 
-$cd Desktop-Environment-Installer
+$cd INSTALLER-WINDOWS
 
 $cd Xfce
 
@@ -38,9 +38,9 @@ Download and install Vcxsrv first in this link: https://sourceforge.net/projects
 
 #sudo (apt/zypper) install git
 
-#git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
+#git clone https://github.com/471D38UNNUX/INSTALLER-WINDOWS
 
-#cd Desktop-Environment-Installer
+#cd INSTALLER-WINDOWS
 
 #bash WSL-Config.sh
 
