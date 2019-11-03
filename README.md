@@ -8,7 +8,7 @@ Run this script:
 
 $apt install git
 
-$git clone https://github.com/471D38UNNUX/INSTALLER-WINDOWS
+$git clone https://github.com/Sixmusic807725/INSTALLER-WINDOWS
 
 $cd INSTALLER-WINDOWS
 
@@ -26,7 +26,7 @@ For original version:
 
 #sudo (apt/yum/zypper/pacman -S) install git
 
-#git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
+#git clone https://github.com/Sixmusic807725/INSTALLER-WINDOWS
 
 #cd Desktop-Environment-Installer
 
@@ -38,7 +38,7 @@ Download and install Vcxsrv first in this link: https://sourceforge.net/projects
 
 #sudo (apt/zypper) install git
 
-#git clone https://github.com/471D38UNNUX/INSTALLER-WINDOWS
+#git clone https://github.com/Sixmusic807725/INSTALLER-WINDOWS
 
 #cd INSTALLER-WINDOWS
 
